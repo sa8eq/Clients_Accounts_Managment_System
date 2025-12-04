@@ -1,0 +1,6 @@
+﻿  Project 1 With Extenstion.cpp
+C:\Users\sadeq\Desktop\خارطة الطريق\Course 7\Project 1 With Extenstion\Project 1 With Extenstion\Project 1 With Extenstion.cpp(63,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\sadeq\Desktop\خارطة الطريق\Course 7\Project 1 With Extenstion\Project 1 With Extenstion\Project 1 With Extenstion.cpp(317,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\sadeq\Desktop\خارطة الطريق\Course 7\Project 1 With Extenstion\Project 1 With Extenstion\Project 1 With Extenstion.cpp(378,1): warning C4715: 'UpdateRecord': not all control paths return a value
+C:\Users\sadeq\Desktop\خارطة الطريق\Course 7\Project 1 With Extenstion\Project 1 With Extenstion\Project 1 With Extenstion.cpp(408,1): warning C4715: 'SearchForClient': not all control paths return a value
+  Project 1 With Extenstion.vcxproj -> C:\Users\sadeq\Desktop\خارطة الطريق\Course 7\Project 1 With Extenstion\x64\Debug\Project 1 With Extenstion.exe
